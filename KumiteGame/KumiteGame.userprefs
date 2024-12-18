@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/C# Scripts/Character/Opponent/States/DistanceState.cs">
+    <Files>
+      <File FileName="Assets/Editor/EditModeTest.cs" Line="31" Column="16" />
+      <File FileName="Assets/C# Scripts/Select/CharacterSelect.cs" Line="1" Column="1" />
+      <File FileName="Assets/C# Scripts/Select/SelectFrom.cs" Line="1" Column="1" />
+      <File FileName="Assets/C# Scripts/Health/EnemyHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/C# Scripts/Health/HealthBar.cs" Line="1" Column="1" />
+      <File FileName="Assets/C# Scripts/Health/PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/C# Scripts/Menu/GameMode.cs" Line="1" Column="1" />
+      <File FileName="Assets/Editor/FindMissingScripts.cs" Line="1" Column="1" />
+      <File FileName="Assets/C# Scripts/Select/MapDifficulty.cs" Line="1" Column="1" />
+      <File FileName="Assets/C# Scripts/Menu/Round.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/CNControls/Scripts/CnInputSystem/CnInputManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/C# Scripts/Character/Opponent/States/DistanceState.cs" Line="10" Column="24" />
+      <File FileName="Assets/C# Scripts/Character/Opponent/States/AttackState.cs" Line="1" Column="1" />
+      <File FileName="Assets/C# Scripts/Character/Opponent/Opponent.cs" Line="72" Column="2" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

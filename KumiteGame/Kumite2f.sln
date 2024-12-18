@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumite2f", "Assembly-CSharp.csproj", "{F466D688-578A-B6FF-09ED-F0B8FB3C977A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumite2f", "Assembly-CSharp-firstpass.csproj", "{0AF379E2-28A0-868C-1066-70254329E267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumite2f", "Assembly-CSharp-Editor.csproj", "{200030E2-2549-9D31-2284-1C6216561377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F466D688-578A-B6FF-09ED-F0B8FB3C977A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F466D688-578A-B6FF-09ED-F0B8FB3C977A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F466D688-578A-B6FF-09ED-F0B8FB3C977A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F466D688-578A-B6FF-09ED-F0B8FB3C977A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AF379E2-28A0-868C-1066-70254329E267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF379E2-28A0-868C-1066-70254329E267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF379E2-28A0-868C-1066-70254329E267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF379E2-28A0-868C-1066-70254329E267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{200030E2-2549-9D31-2284-1C6216561377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200030E2-2549-9D31-2284-1C6216561377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200030E2-2549-9D31-2284-1C6216561377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200030E2-2549-9D31-2284-1C6216561377}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

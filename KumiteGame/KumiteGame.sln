@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KumiteGame", "Assembly-CSharp.csproj", "{AE56707A-7E58-2957-5807-0A82D6DD0150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KumiteGame", "Assembly-CSharp-firstpass.csproj", "{993E08B2-0307-2FC0-8B8A-8B26017D2A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KumiteGame", "Assembly-CSharp-Editor.csproj", "{9C575EC8-C3C7-3316-8358-B640A4B223F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE56707A-7E58-2957-5807-0A82D6DD0150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE56707A-7E58-2957-5807-0A82D6DD0150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE56707A-7E58-2957-5807-0A82D6DD0150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE56707A-7E58-2957-5807-0A82D6DD0150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{993E08B2-0307-2FC0-8B8A-8B26017D2A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993E08B2-0307-2FC0-8B8A-8B26017D2A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993E08B2-0307-2FC0-8B8A-8B26017D2A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993E08B2-0307-2FC0-8B8A-8B26017D2A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C575EC8-C3C7-3316-8358-B640A4B223F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C575EC8-C3C7-3316-8358-B640A4B223F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C575EC8-C3C7-3316-8358-B640A4B223F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C575EC8-C3C7-3316-8358-B640A4B223F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

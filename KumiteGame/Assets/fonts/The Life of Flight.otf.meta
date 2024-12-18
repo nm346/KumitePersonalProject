@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 25f47763d883645aa85def3aa411a0a4
+timeCreated: 1511748060
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Life of Flight
+  fontNames:
+  - The Life of Flight
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

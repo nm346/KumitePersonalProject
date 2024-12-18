@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 36c814d72a191411895139232b988a52
+timeCreated: 1523412915
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mixamo.com (0.0, 0.0) 0000
+    21300002: mixamo.com (0.0, 0.0) 0001
+    21300004: mixamo.com (0.0, 0.0) 0002
+    21300006: mixamo.com (0.0, 0.0) 0003
+    21300008: mixamo.com (0.0, 0.0) 0004
+    21300010: mixamo.com (0.0, 0.0) 0005
+    21300012: mixamo.com (0.0, 0.0) 0006
+    21300014: mixamo.com (0.0, 0.0) 0007
+    21300016: mixamo.com (0.0, 0.0) 0008
+    21300018: mixamo.com (0.0, 0.0) 0009
+    21300020: mixamo.com (0.0, 0.0) 0010
+    21300022: mixamo.com (0.0, 0.0) 0011
+    21300024: mixamo.com (0.0, 0.0) 0012
+    21300026: mixamo.com (0.0, 0.0) 0013
+    21300028: mixamo.com (0.0, 0.0) 0014
+    21300030: mixamo.com (0.0, 0.0) 0015
+    21300032: mixamo.com (0.0, 0.0) 0016
+    21300034: mixamo.com (0.0, 0.0) 0017
+    21300036: mixamo.com (0.0, 0.0) 0018
+    21300038: mixamo.com (0.0, 0.0) 0019
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0000
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 537
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0001
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 358
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0002
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 358
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0003
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 358
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0004
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 716
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0005
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 537
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0006
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 358
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0007
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 179
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0008
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 179
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0009
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 179
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0010
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 179
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0014
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0015
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 0
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0016
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0017
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0018
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mixamo.com (0.0, 0.0) 0019
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
