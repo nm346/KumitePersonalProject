@@ -30,7 +30,7 @@ Password: KumiteOfficial1.
 
 
 
---Running Kumite on an iOS device(You must have a Mac computer with XCODE installed, iMacs in the small private room on Charles Wilson 3rd floor should work).
+--Running Kumite on an iOS device(You must have a Mac computer with XCODE installed.
 
 1. Connect an iOS device(iPhone or iPad) to the computer via USB cable.
 
